@@ -1,2 +1,2 @@
-# cs-training
+# algorithms-exercises
 Created with CodeSandbox
